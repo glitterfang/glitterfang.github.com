@@ -4,7 +4,9 @@
 	   font-weight: normal;
 	 }
 	 
-    body { font-family: Georgia; }
+    body { 
+      font-family: Times;
+   }
     
     a:hover {
       text-decoration: none;
@@ -20,8 +22,6 @@
       list-style: square;
     }
 
-    
-	 
 	 #container {
 	   width: 350px;
 	   margin-left: auto;
@@ -54,6 +54,8 @@
    .post {
       margin-top: 20px;
     }
+
+    .post p { font-size: 14px; }
   
 
   .post  a {
