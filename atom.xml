@@ -1,0 +1,29 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Justin Woodbridge</title>
+ <link href="http://siberianfaucet.com/atom.xml" rel="self"/>
+ <link href="http://siberianfaucet.com/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://siberianfaucet.com/</id>
+ <author>
+   <name>Justin Woodbridge</name>
+   <email>j@siberianfaucet.com</email>
+ </author>
+ {% for post in site.posts limit:10 %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://siberianfaucet.com/{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://siberianfaucet.com/{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+   <author>
+     <name>Justin Woodbridge</name>
+     <uri>http://siberianfaucet.com//about.html</uri>
+   </author>
+ </entry>
+ {% endfor %}
+</feed>
+
