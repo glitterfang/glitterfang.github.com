@@ -1,0 +1,11 @@
+---
+layout: post
+title: Geoffrey Grosenbach Interview
+url: http://5by5.tv/founderstalk/1
+---
+
+h1. "{{ post.title}}":{{ post.url }}
+
+http://5by5.tv/founderstalk/1
+
+An interview with Geoffrey Grosenbach, the creator and senior visionary of [Peepcode](http://peepcode.com) about business.  This guy is my hero.
