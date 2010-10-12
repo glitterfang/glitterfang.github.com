@@ -22,6 +22,10 @@
       list-style: square;
     }
 
+    img {
+      width: 300px;
+    }
+
 	 #container {
 	   width: 350px;
 	   margin-left: auto;

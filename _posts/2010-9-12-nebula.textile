@@ -1,0 +1,10 @@
+---
+layout: post
+title: Billions of Stars
+---
+
+h1. "{{ page.title}}":{{ page.url }}
+
+!/data/galaxies.png!
+
+Each one of these dots is a *galaxy*.  Not a star, a galaxy.  Each one of these galaxies contains billions and billions of stars.  Wow.  This really emphasizes how insignificant we are.
