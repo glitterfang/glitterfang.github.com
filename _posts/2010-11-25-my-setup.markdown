@@ -1,0 +1,49 @@
+---
+layout: post
+title: Justin
+---
+
+## What I Do
+I'm a [high school student](http://www.montessorihighschool.org/).
+But, I try not to let it define me.  I try to think of it as my day
+job.  At night, I immerse my self in computers.  I administer servers,
+write rails apps, iPhone apps, and little scripts to save my self
+effort.
+
+## Whats The Hardware
+I use two computers, unfortunately.  Since 2008, I've been using a
+bottom of the line aluminum MacBook.  2.0gHZ, upgraded to four gigs of
+ram.  I love this machine, but she's starting to show her age.  Her
+second battery is in need of replacement and she has a dent in the
+bottom from when I fell of my bike.
+
+My second machine is a 2010 white MacBook, its for school.  I feel
+nothing about this computer.  I have no control over it.  The settings
+are locked down and its a pain to install new software.
+
+## Whats The Software
+
+I write a lot of stuff in TextEdit.
+Terminal is my most trusted tool.
+I code in [MacVim](http://code.google.com/p/macvim/).
+I markup with HTML and CSS in [Espresso](http://macrabbit.com/espresso/).
+I browse in Safari.
+I keep my music in iTunes.
+Mail is my email client.
+[OmniOutliner](http://www.omnigroup.com/products/omnioutliner/),
+[Notational Velocity](http://notational.net/) for notes.
+[Transmit](http://panic.com/transmit/) for FTP.
+[Divvy](http://www.mizage.com/divvy/) for quick window resizing.
+
+There's probably more, but those are the most important.
+
+## Dream Setup.
+
+A [Happy Hacking
+Keyboard](http://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400wn).
+ White / Grey, blank caps.
+An [MX Revolution](http://www.amazon.com/Logitech-Revolution-Cordless-Laser-Mouse/dp/B000HCT12O)
+mouse from Logitech.
+
+I want a fifteen inch MacBook Pro, matte display, SSD.  To get really
+fancy, a nice twenty seven inch external display from Apple.

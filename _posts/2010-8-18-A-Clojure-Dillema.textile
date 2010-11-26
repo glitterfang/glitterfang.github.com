@@ -3,7 +3,7 @@ layout: post
 title: A Clojure Dillema
 ---
 
-h1. "{{ page.title }}":{{ page.url }}
+h2. "{{ page.title }}":{{ page.url }}
 
 Right now I'm in a dilemma.  Lately, I've been learning Clojure, and its been fun.  Really fun.  I'm not very far yet, though.  I can hardly do anything in it right now,  I want to get better.  But heres the problem.  I'm not sure where I can use it.
 

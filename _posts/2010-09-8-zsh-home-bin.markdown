@@ -3,7 +3,7 @@ layout: post
 title: How To Get ~/bin In Your Path
 ---
 
-# [{{ page.title }}]({{ page.url }})
+## [{{ page.title }}]({{ page.url }})
 
 I want to show you how to get your ~/bin directory in your path using zsh.  I couldn't get this to work for months.  A few days ago, I finally did.  Here's how.
 
