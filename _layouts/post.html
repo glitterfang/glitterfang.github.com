@@ -3,6 +3,8 @@ layout: default
 ---
 
 <article class="post">
+  <h1>{{ page.title }}</h1>
+  
   {{ content }}
 <time class="subtle" datetime="{{ page.date | date: "%Y-%m-%d" }}">
   &mdash;{{ page.date | date: "%b %d, %Y" }}

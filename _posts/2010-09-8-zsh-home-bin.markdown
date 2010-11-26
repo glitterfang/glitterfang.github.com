@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How To Get ~/bin In Your Path
+description: The solution to the problem that I struggled with for months.  Sometimes you just don't know what to search for.
 ---
 
 ## [{{ page.title }}]({{ page.url }})

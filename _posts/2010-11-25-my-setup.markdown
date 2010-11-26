@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Justin
+title: My Setup
+description: My hardware and my software.
 ---
 
-## What I Do
+
 I'm a [high school student](http://www.montessorihighschool.org/).
 But, I try not to let it define me.  I try to think of it as my day
 job.  At night, I immerse my self in computers.  I administer servers,

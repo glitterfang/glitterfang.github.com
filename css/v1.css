@@ -1,0 +1,156 @@
+/* 
+  Created from two days effort.  November 24 to November 25 2010.
+  Copyright: Justin Woodbridge
+  
+  PLEASE DONT STEAL MY HARD WORK.
+*/
+
+    * {
+      margin: 0;
+      padding: 0;
+    }
+    
+    body {
+      background-color: #42322b;
+      
+    }
+    
+    #container {
+      width: 400px;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 30px;
+      font-family: Helvetica Neue;
+      color: #333;
+      padding: 30px;
+      background-color: white;
+/*      height: 600px;*/
+     -webkit-border-radius:5px;
+       -webkit-box-shadow:0 -1px 0 #fff, 0 0 10px #222;
+    }
+    
+    #main {
+      width: 500px;
+      float: left;
+    }
+    
+    #sidebar {
+      width: 200px;
+      float: right;
+    }
+    
+    
+    p {
+      font-size: 15px;
+      line-height: 1.5em;
+      margin-bottom: 10px;
+    }
+
+  h1, h2 {
+   color: #333;
+  }
+    
+    h1 {
+      font-size: 25px;
+    }
+    
+    h1 a {
+      text-decoration: none;      
+      font-size: 20px;
+    }
+    
+    h2 {
+      font-size: 20px;
+}
+    
+    a {
+      color: #0088FF;
+    }
+    
+    a:hover {
+     color: #555;
+    }
+    
+    #me {
+      font-size: 20px;;
+    }
+    
+    .button {
+      border: 1px solid #DDD;
+      padding: .25em .5em;
+      text-decoration: none;
+      font-weight: bold;
+      -moz-border-radius: 3px;
+      -webkit-border-radius: 3px;
+    }
+    
+    .button:hover {
+      border-color: #333;
+      background-color: #333;
+      color: #FFF;
+      text-shadow: 0 1px 0 #222;
+    }
+  
+    
+    #bigman {
+     width: 140px;
+     display: inline;
+   }
+   
+   #head {
+    margin-bottom: 20px;;
+   }
+   
+   
+   .excerpt {
+      display: inline;
+   }
+  
+  #links {
+    list-style: none;
+    display: inline;  
+  }
+   
+   #links li {
+    margin-left: 10px;
+    display: inline;  
+   }
+   
+   #links li a {
+     text-decoration: none;
+     font-weight: bold;
+   }
+   
+   #fin {
+     text-align: center;
+     margin-top: 20px;
+     font-weight: bold;
+   }
+   
+   .excerpt h1 a {
+     color: black;
+     border-bottom: 1px dashed #CCC;
+   }
+   
+   
+   .excerpt h1 a:hover {   
+     color: #888;
+     border-bottom: 1px solid #CCC;
+   }
+   
+   .post h1, .post h2 {
+     margin-bottom: 10px;
+   }
+   
+   time {
+     color: #CCC;
+   }
+   
+   #bigman  {
+    color: black; 
+    font-size: 15x;
+   }
+   
+   #bigman:hover {
+     color: white;
+   }
